@@ -1,2 +1,2 @@
 # Counter
-make simple counter using usestate in react
+make simple counter by using usestate in react
